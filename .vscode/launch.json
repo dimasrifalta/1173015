@@ -1,0 +1,58 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Latihan4v33",
+            "request": "launch",
+            "mainClass": "Latihan4v33"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Latihan4v32",
+            "request": "launch",
+            "mainClass": "Latihan4v32"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Latihan4v28",
+            "request": "launch",
+            "mainClass": "Latihan4v28"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Latihan4v30",
+            "request": "launch",
+            "mainClass": "Latihan4v30"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Latihan4v29",
+            "request": "launch",
+            "mainClass": "Latihan4v29"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Latihan4v26",
+            "request": "launch",
+            "mainClass": "Latihan4v26"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Latihan4v23",
+            "request": "launch",
+            "mainClass": "Latihan4v23"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Latihan4v22",
+            "request": "launch",
+            "mainClass": "Latihan4v22"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        }
+    ]
+}
